@@ -68,8 +68,13 @@ Registers used:
 4. Click ▶️ Run
 
 ---
+## 2. Online Icarus verilog compiler
+1. Go to: https://www.tutorialspoint.com/compilers/online-verilog-compiler.htm
+2. Paste full code into editor
+3. Click ▶️ execute
+-----
 
-## 💻 2. Run on Laptop / PC
+## 💻 3. Run on Laptop / PC
 
 ### 🧰 Requirements
 
